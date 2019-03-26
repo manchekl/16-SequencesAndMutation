@@ -16,7 +16,7 @@ Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
          their colleagues and Krista Manche.
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------
 # DONE: 2. SKIM the program below and RUN it.
 #
 #   Then look more closely at the CODE for:
